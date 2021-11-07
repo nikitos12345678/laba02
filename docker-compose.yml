@@ -1,0 +1,7 @@
+version: "3" 
+servises:
+ hello-world:
+   image: hello-world
+ main:
+   build: main/
+  
