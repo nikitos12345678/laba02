@@ -1,7 +1,8 @@
 version: "3" 
+
 servises:
  hello-world:
    image: hello-world
  main:
-   build: main/
+   build: cr.yandex/crpjnm4aim8e506e9p97/laba01/
   
